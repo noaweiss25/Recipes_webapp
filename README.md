@@ -9,4 +9,5 @@ Microsoft Azure DB
 * Search for recipes based on free query and filter results by popularity and cooking time.
 
 API documentation -  https://app.swaggerhub.com/apis/zigelitamar/RecepiesAPI/1.0.0
+
 Heroku - https://dashboard.heroku.com/apps/recipestest1/logs
